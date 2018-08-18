@@ -1,4 +1,4 @@
 # FriendFinder
 HW #11 - friend finder
 
-Still need heroku deployment
+Still need to fix page
