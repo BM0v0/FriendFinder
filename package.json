@@ -1,0 +1,26 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "Friend Finder App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+  	"node": "4.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BM0v0/FriendFinder.git"
+  },
+  "author": "Brandon Moran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BM0v0/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/BM0v0/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
